@@ -102,8 +102,6 @@ a tabuada de cada um dos elementos do vetor A.
 
 </details>
 
-<br>
-
 ## 👨‍💻 Tecnologias 
 
 O projeto foi desenvolvido utilizando
@@ -129,7 +127,6 @@ O projeto foi desenvolvido utilizando
 
 ### ⚠️ Para rodar o projeto você precisa ter o JDK instalado noseu computador
 
-<br>
 
 Acesse a pasta do exercicio que você deseja executar, e digite os seguintes comandos:
 
