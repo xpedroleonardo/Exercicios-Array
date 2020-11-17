@@ -125,7 +125,7 @@ O projeto foi desenvolvido utilizando
 
 ## 🚀 Como executar o projeto
 
-### ⚠️ Para rodar o projeto você precisa ter o JDK instalado noseu computador
+### ⚠️ Para rodar o projeto você precisa ter o JDK instalado no seu computador
 
 
 Acesse a pasta do exercicio que você deseja executar, e digite os seguintes comandos:
