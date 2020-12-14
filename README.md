@@ -6,7 +6,7 @@
 
 ## 📑 Sobre
 
-Exercícios de fixação sobre Array, desenvolvido para matéira de Programação e Algoritmos, da Etec de Itaquaquecetuba.
+Exercícios de fixação sobre Array, desenvolvido para matéria de Programação e Algoritmos, da Etec de Itaquaquecetuba.
 
 <details>
 <summary>Lista de exercícios</summary>
@@ -144,4 +144,4 @@ Acesse a pasta do exercicio que você deseja executar, e digite os seguintes com
 
 ### 💻 Feito por [Pedro Leonardo](https://github.com/xpedroleonardo). 
 
-### Gostou do projeto ? De uma estrela ⭐
+### Gostou do projeto ? Dê uma estrela ⭐
